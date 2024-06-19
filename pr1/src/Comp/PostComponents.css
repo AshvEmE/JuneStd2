@@ -1,0 +1,13 @@
+.PostItem{
+  flex: 0 0 22.3333%;
+   box-sizing: border-box; 
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: 20px;
+}

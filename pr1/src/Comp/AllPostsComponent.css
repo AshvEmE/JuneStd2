@@ -1,0 +1,12 @@
+.AllPostsWrapper{
+  width: 80vw;
+  
+  margin-top: 100px;
+  border-radius: 25px;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  padding: 20px;
+  justify-content: space-around;
+}
